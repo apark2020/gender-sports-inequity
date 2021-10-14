@@ -1,0 +1,17 @@
+team,div,value,school
+m,OperatingExpenses,3779587,Princeton
+m,CoachSalaries,4884552,Princeton
+m,RecruitingExpenses,1257981,Princeton
+m,OtherExpenses,4380269,Princeton
+f,OperatingExpenses,2109224,Princeton
+f,CoachSalaries,2499992,Princeton
+f,RecruitingExpenses,250772,Princeton
+f,OtherExpenses,1431836,Princeton
+m,OperatingExpenses,4472264,Yale
+m,CoachSalaries,4698909,Yale
+m,RecruitingExpenses,843500,Yale
+m,OtherExpenses,4063238,Yale
+f,OperatingExpenses,2800151,Yale
+f,CoachSalaries,3121503,Yale
+f,RecruitingExpenses,342255,Yale
+f,OtherExpenses,1642957,Yale
